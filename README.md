@@ -9,9 +9,7 @@ The languages I speak are Portuguese, English, Spanish.
 
 <h2 align="left"> What will you find here: </h2>
 
-You will mostly find game codes 
-
-🎮
+You will mostly find game codes 🎮
 
 <h3 align="left"> See my social networks: </h3>
 <a href="https://www.linkedin.com/in/rafaelcolpani/">
