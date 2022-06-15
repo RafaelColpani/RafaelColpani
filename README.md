@@ -7,7 +7,7 @@ I'm currently studying Digital Games in college.
 The languages I speak are Portuguese, English, Spanish. 
 
 
-<h2 align="left"> What will you find here: </h2>
+<h3 align="left"> What will you find here: </h3>
 
 You will mostly find game codes 🎮
 
