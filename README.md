@@ -22,6 +22,7 @@ You will mostly find game codes 🎮
 <h3 align="left"> Technologies that I use in my daily life: </h3>
 <img align="left" alt="Ps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/> 
 <img align="left" alt="Blender" width="130px" src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo_no_socket_black.png?x21744"/> 
-<img align="left" alt="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/> 
+<img align="left" alt="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
+<img align="left" alt="Unreal Engine" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" /> 
 <img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+
