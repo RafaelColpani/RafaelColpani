@@ -13,16 +13,20 @@ You will mostly find game codes 🎮
 
 <h3 align="left"> See my social networks: </h3>
 <a href="https://www.linkedin.com/in/rafaelcolpani/">
-<img align="left" alt="linkedin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="https://rf_rafael.artstation.com/">
-<img align="center" alt"ArtStation" width="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png">
+<img src="https://skillicons.dev/icons?i=ros"/> 
 </a>
 
 <h3 align="left"> Technologies that I use in my daily life: </h3>
-<img align="left" alt="Ps" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/> 
-<img align="left" alt="Blender" width="130px" src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo_no_socket_black.png?x21744"/> 
-<img align="left" alt="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
-<img align="left" alt="Unreal Engine" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" /> 
-<img align="left" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity"/>
+    <img src="https://skillicons.dev/icons?i=cs"/>
+    <img src="https://skillicons.dev/icons?i=blender"/>
+    <img src="https://skillicons.dev/icons?i=ps"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=unreal"/>
+  </a>
+</p>
