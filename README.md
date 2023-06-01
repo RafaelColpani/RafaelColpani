@@ -1,11 +1,22 @@
-<h4 align="left"> > Hey there </h4>
+<div align = "center">
 
-<h5> Hello, my name is Rafael and I have a passion for developing games and their mechanics.
-I am fascinated by the worlds and stories that are created in this universe. My goal is to become a renowned technical artist and be part of this world. </h5>
+<h4> Hi :wave: my name is Rafael </h4>
+<h5> A future technical artist </h5>
 
-<h5> Welcome to my world of code and art. </h5>
+ > 90% of what is considered "impossible" is, in fact, possible. The other 10% will become possible with the passage of time & technology
+
+</div>
+</br>
+
+
+<h5> I have a passion for developing games and their mechanics.</h5>
+
+<h5>  Fascinated by the worlds and stories that are created in this universe. My goal is to become a technical artist to bring fascinating worlds into games. </h5>
+
+<h4 align = "center"> > Welcome to my world of code and art < </h>
  
-
+</br>
+ 
 <h4 align="left"> > Technologies that I use in my daily life: </h4>
 <p align="left">
   <a href="https://skillicons.dev">
