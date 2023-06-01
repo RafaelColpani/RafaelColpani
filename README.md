@@ -21,11 +21,12 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img height="40" src="https://skillicons.dev/icons?i=unity"/>
+    <img height="40" src="https://skillicons.dev/icons?i=unreal"/>
     <img height="40" src="https://skillicons.dev/icons?i=cs"/>
+    <img height="40" src="https://skillicons.dev/icons?i=cpp"/>
     <img height="40" src="https://skillicons.dev/icons?i=blender"/>
     <img height="40" src="https://skillicons.dev/icons?i=ps"/>
     <img height="40" src="https://skillicons.dev/icons?i=github"/>
-    <img height="40" src="https://skillicons.dev/icons?i=unreal"/>
   </a>
 </p>
 
