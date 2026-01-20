@@ -3,14 +3,6 @@
 </a>
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,py&perline=5&theme=dark)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelcolpani&show_icons=true&locale=en&layout=compact" alt="rafaelcolpani" /></p>
-
-
-### Find Me
-<div>
-    <a href="https://www.linkedin.com/in/rafaelcolpani/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-</div>
