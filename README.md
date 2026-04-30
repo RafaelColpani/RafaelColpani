@@ -1,8 +1,21 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=01001000+01100101+01101100;Hello%2C+it's+Rafael+Colpani" alt="Typing SVG" />
-</a>
+<h2>About Me</h2>
+<p>
+Technical Artist focused on Unreal Engine, Unity, shaders, technical tools, VFX, and pipeline optimization. I work at the intersection of art and technology, ensuring visual quality, performance, and efficient production workflows.
+</p>
 
-### Skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,unreal,py&perline=5&theme=dark)](https://skillicons.dev)
+<h2>Core Areas</h2>
+<ul>
+  <li>Shader development (HLSL, Shader Graph, Unreal Material Editor)</li>
+  <li>Real-time VFX</li>
+  <li>Technical tools and automation</li>
+  <li>LookDev and 3D modeling</li>
+  <li>Performance optimization</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelcolpani&show_icons=true&locale=en&layout=compact" alt="rafaelcolpani" /></p>
+<h2>Top Languages</h2>
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelcolpani&show_icons=true&locale=en&layout=compact" 
+    alt="rafaelcolpani"
+  />
+</p>
