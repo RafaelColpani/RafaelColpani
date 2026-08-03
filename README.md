@@ -1,21 +1,37 @@
 <h2>About Me</h2>
+
 <p>
-Technical Artist focused on Unreal Engine, Unity, shaders, technical tools, VFX, and pipeline optimization. I work at the intersection of art and technology, ensuring visual quality, performance, and efficient production workflows.
+3D Artist focused on real-time content for games, specializing in materials, shaders, rendering, and asset creation for Unreal Engine and Unity. Passionate about building efficient workflows while balancing visual quality and performance. 
+
+  Currently expanding my skills in Cybersecurity.
 </p>
 
-<h2>Core Areas</h2>
+<h2>Core Skills</h2>
+
 <ul>
-  <li>Shader development (HLSL, Shader Graph, Unreal Material Editor)</li>
-  <li>Real-time VFX</li>
-  <li>Technical tools and automation</li>
-  <li>LookDev and 3D modeling</li>
-  <li>Performance optimization</li>
+  <li>3D Modeling & Sculpting</li>
+  <li>PBR Materials & Texturing</li>
+  <li>Shaders (HLSL, Shader Graph & Unreal Materials)</li>
+  <li>Real-Time Rendering</li>
+  <li>Unreal Engine & Unity</li>
+  <li>Performance Optimization</li>
 </ul>
 
-<h2>Top Languages</h2>
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelcolpani&show_icons=true&locale=en&layout=compact" 
-    alt="rafaelcolpani"
-  />
-</p>
+<h2>Interests</h2>
+
+<ul>
+  <li>Game Development</li>
+  <li>Real-Time Graphics</li>
+  <li>Cybersecurity</li>
+</ul>
+
+
+```
+█   █ █████ █      ███   ███  █   █ █████   
+█░  █░█░░░░░█░    █ ░░░ █ ░░█ ██ ██░█░░░░░  
+█░█ █░████░░█░░   █░ ░░░█░ ░█░█░█ █░████░░░ 
+██░██░█░░░░ █░░   █░░   █░░ █░█░░░█░█░░░░   
+█░░ █░█████░█████  ███   ███ ░█░░ █░█████░  
+ ░░░ ░░░░░░░ ░░░░░  ░░░   ░░░ ░░░  ░░░░░░░  
+  ░   ░ ░░░░░ ░░░░░  ░░░   ░░░  ░   ░ ░░░░░                                                                                                                                                                                                                                        
+```
