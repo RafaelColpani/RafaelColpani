@@ -17,4 +17,4 @@ Here I gather my professional projects and studies in:
 
 **Stack:** Unreal · Unity · HLSL · Blender · Python
 
-**Contact:** [LinkedIn](<[link](https://www.linkedin.com/in/rafaelcolpani/)>) · [Portfolio](<[link](https://www.artstation.com/rafael_colpani)>)
+**Contact:** [LinkedIn](<https://www.linkedin.com/in/rafaelcolpani/>) · [Portfolio](https://www.artstation.com/rafael_colpani>)
